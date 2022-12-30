@@ -1,4 +1,4 @@
-# nmon
+# Nmon
 Python Network Monitor
 
 [![CleanShot 2022-12-30 at 18.49.06@2x](https://i.im.ge/2022/12/31/qZ6UPS.CleanShot-2022-12-30-at-18-49-062x.png)](https://im.ge/i/qZ6UPS)
