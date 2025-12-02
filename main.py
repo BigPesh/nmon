@@ -14,11 +14,11 @@ sheet.append(["Total megabytes sent", "Total megabytes received", "Current downl
 
 # Set up the GUI
 window = tk.Tk()
-window.title("Nmon - https://grant-peach-blog.web.app - @BIG_PESH")
+window.title("Nmon")
 window.geometry("480x230")
 window.resizable(False, False)
 window.configure(bg="#1cff9f")
-title_lbl = tk.Label(window, text="Nmon v1.0.0 - @BIG_PESH ", font=("Arial", 20), fg="#6638f0", background="#1cff9f")
+title_lbl = tk.Label(window, text="Nmon v1.0.0", font=("Arial", 20), fg="#6638f0", background="#1cff9f")
 title_lbl.pack()
 
 
